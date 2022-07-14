@@ -1,0 +1,15 @@
+D:\Project\16-Csharp-hazir-string-metotlar\bin\Debug\net6.0\16-Csharp-hazir-string-metotlar.exe
+D:\Project\16-Csharp-hazir-string-metotlar\bin\Debug\net6.0\16-Csharp-hazir-string-metotlar.deps.json
+D:\Project\16-Csharp-hazir-string-metotlar\bin\Debug\net6.0\16-Csharp-hazir-string-metotlar.runtimeconfig.json
+D:\Project\16-Csharp-hazir-string-metotlar\bin\Debug\net6.0\16-Csharp-hazir-string-metotlar.dll
+D:\Project\16-Csharp-hazir-string-metotlar\bin\Debug\net6.0\16-Csharp-hazir-string-metotlar.pdb
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\16-Csharp-hazir-string-metotlar.csproj.AssemblyReference.cache
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\16-Csharp-hazir-string-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\16-Csharp-hazir-string-metotlar.AssemblyInfoInputs.cache
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\16-Csharp-hazir-string-metotlar.AssemblyInfo.cs
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\16-Csharp-hazir-string-metotlar.csproj.CoreCompileInputs.cache
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\16-Csharp-hazir-string-metotlar.dll
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\refint\16-Csharp-hazir-string-metotlar.dll
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\16-Csharp-hazir-string-metotlar.pdb
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\16-Csharp-hazir-string-metotlar.genruntimeconfig.cache
+D:\Project\16-Csharp-hazir-string-metotlar\obj\Debug\net6.0\ref\16-Csharp-hazir-string-metotlar.dll
