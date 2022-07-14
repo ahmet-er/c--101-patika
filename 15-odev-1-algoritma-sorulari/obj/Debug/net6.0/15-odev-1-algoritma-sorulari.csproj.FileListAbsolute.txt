@@ -1,0 +1,15 @@
+D:\Project\15-odev-1-algoritma-sorulari\bin\Debug\net6.0\15-odev-1-algoritma-sorulari.exe
+D:\Project\15-odev-1-algoritma-sorulari\bin\Debug\net6.0\15-odev-1-algoritma-sorulari.deps.json
+D:\Project\15-odev-1-algoritma-sorulari\bin\Debug\net6.0\15-odev-1-algoritma-sorulari.runtimeconfig.json
+D:\Project\15-odev-1-algoritma-sorulari\bin\Debug\net6.0\15-odev-1-algoritma-sorulari.dll
+D:\Project\15-odev-1-algoritma-sorulari\bin\Debug\net6.0\15-odev-1-algoritma-sorulari.pdb
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\15-odev-1-algoritma-sorulari.csproj.AssemblyReference.cache
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\15-odev-1-algoritma-sorulari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\15-odev-1-algoritma-sorulari.AssemblyInfoInputs.cache
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\15-odev-1-algoritma-sorulari.AssemblyInfo.cs
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\15-odev-1-algoritma-sorulari.csproj.CoreCompileInputs.cache
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\15-odev-1-algoritma-sorulari.dll
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\refint\15-odev-1-algoritma-sorulari.dll
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\15-odev-1-algoritma-sorulari.pdb
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\15-odev-1-algoritma-sorulari.genruntimeconfig.cache
+D:\Project\15-odev-1-algoritma-sorulari\obj\Debug\net6.0\ref\15-odev-1-algoritma-sorulari.dll
