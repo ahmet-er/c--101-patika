@@ -1,0 +1,15 @@
+D:\Project\18-collections-generic-collections-ve-list\bin\Debug\net6.0\18-collections-generic-collections-ve-list.exe
+D:\Project\18-collections-generic-collections-ve-list\bin\Debug\net6.0\18-collections-generic-collections-ve-list.deps.json
+D:\Project\18-collections-generic-collections-ve-list\bin\Debug\net6.0\18-collections-generic-collections-ve-list.runtimeconfig.json
+D:\Project\18-collections-generic-collections-ve-list\bin\Debug\net6.0\18-collections-generic-collections-ve-list.dll
+D:\Project\18-collections-generic-collections-ve-list\bin\Debug\net6.0\18-collections-generic-collections-ve-list.pdb
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\18-collections-generic-collections-ve-list.csproj.AssemblyReference.cache
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\18-collections-generic-collections-ve-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\18-collections-generic-collections-ve-list.AssemblyInfoInputs.cache
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\18-collections-generic-collections-ve-list.AssemblyInfo.cs
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\18-collections-generic-collections-ve-list.csproj.CoreCompileInputs.cache
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\18-collections-generic-collections-ve-list.dll
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\refint\18-collections-generic-collections-ve-list.dll
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\18-collections-generic-collections-ve-list.pdb
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\18-collections-generic-collections-ve-list.genruntimeconfig.cache
+D:\Project\18-collections-generic-collections-ve-list\obj\Debug\net6.0\ref\18-collections-generic-collections-ve-list.dll
