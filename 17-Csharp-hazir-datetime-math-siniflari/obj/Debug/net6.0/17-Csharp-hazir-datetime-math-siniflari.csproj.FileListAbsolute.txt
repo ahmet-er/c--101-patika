@@ -1,0 +1,15 @@
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\bin\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.exe
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\bin\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.deps.json
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\bin\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.runtimeconfig.json
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\bin\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.dll
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\bin\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.pdb
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.csproj.AssemblyReference.cache
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.AssemblyInfoInputs.cache
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.AssemblyInfo.cs
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.csproj.CoreCompileInputs.cache
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.dll
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\refint\17-Csharp-hazir-datetime-math-siniflari.dll
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.pdb
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\17-Csharp-hazir-datetime-math-siniflari.genruntimeconfig.cache
+D:\Project\17-Csharp-hazir-datetime-math-siniflari\obj\Debug\net6.0\ref\17-Csharp-hazir-datetime-math-siniflari.dll
