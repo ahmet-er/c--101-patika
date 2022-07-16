@@ -1,0 +1,15 @@
+D:\Project\19-collections-arrayList\bin\Debug\net6.0\19-collections-arrayList.exe
+D:\Project\19-collections-arrayList\bin\Debug\net6.0\19-collections-arrayList.deps.json
+D:\Project\19-collections-arrayList\bin\Debug\net6.0\19-collections-arrayList.runtimeconfig.json
+D:\Project\19-collections-arrayList\bin\Debug\net6.0\19-collections-arrayList.dll
+D:\Project\19-collections-arrayList\bin\Debug\net6.0\19-collections-arrayList.pdb
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\19-collections-arrayList.csproj.AssemblyReference.cache
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\19-collections-arrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\19-collections-arrayList.AssemblyInfoInputs.cache
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\19-collections-arrayList.AssemblyInfo.cs
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\19-collections-arrayList.csproj.CoreCompileInputs.cache
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\19-collections-arrayList.dll
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\refint\19-collections-arrayList.dll
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\19-collections-arrayList.pdb
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\19-collections-arrayList.genruntimeconfig.cache
+D:\Project\19-collections-arrayList\obj\Debug\net6.0\ref\19-collections-arrayList.dll
