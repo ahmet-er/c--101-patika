@@ -1,0 +1,15 @@
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.exe
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.deps.json
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.dll
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\bin\Debug\net6.0\Koleksiyonlar-Soru-1.pdb
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.dll
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\refint\Koleksiyonlar-Soru-1.dll
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.pdb
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
+D:\Project\21-odev-2-collections-algoritma-sorulari\Koleksiyonlar-Soru-1\obj\Debug\net6.0\ref\Koleksiyonlar-Soru-1.dll
