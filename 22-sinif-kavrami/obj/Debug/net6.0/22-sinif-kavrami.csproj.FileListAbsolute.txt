@@ -1,0 +1,15 @@
+D:\Project\22-sinif-kavrami\bin\Debug\net6.0\22-sinif-kavrami.exe
+D:\Project\22-sinif-kavrami\bin\Debug\net6.0\22-sinif-kavrami.deps.json
+D:\Project\22-sinif-kavrami\bin\Debug\net6.0\22-sinif-kavrami.runtimeconfig.json
+D:\Project\22-sinif-kavrami\bin\Debug\net6.0\22-sinif-kavrami.dll
+D:\Project\22-sinif-kavrami\bin\Debug\net6.0\22-sinif-kavrami.pdb
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\22-sinif-kavrami.csproj.AssemblyReference.cache
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\22-sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\22-sinif-kavrami.AssemblyInfoInputs.cache
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\22-sinif-kavrami.AssemblyInfo.cs
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\22-sinif-kavrami.csproj.CoreCompileInputs.cache
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\22-sinif-kavrami.dll
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\refint\22-sinif-kavrami.dll
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\22-sinif-kavrami.pdb
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\22-sinif-kavrami.genruntimeconfig.cache
+D:\Project\22-sinif-kavrami\obj\Debug\net6.0\ref\22-sinif-kavrami.dll
