@@ -1,0 +1,15 @@
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\bin\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.exe
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\bin\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.deps.json
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\bin\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.runtimeconfig.json
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\bin\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.dll
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\bin\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.pdb
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.csproj.AssemblyReference.cache
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.AssemblyInfoInputs.cache
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.AssemblyInfo.cs
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.csproj.CoreCompileInputs.cache
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.dll
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\refint\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.dll
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.pdb
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.genruntimeconfig.cache
+D:\Project\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar\obj\Debug\net6.0\ref\23-sinif-kavrami-erisim-belirleyiciler-ve-kurucu-fonksiyonlar.dll
