@@ -1,0 +1,15 @@
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\bin\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.exe
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\bin\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.deps.json
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\bin\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.runtimeconfig.json
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\bin\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.dll
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\bin\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.pdb
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.csproj.AssemblyReference.cache
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.AssemblyInfoInputs.cache
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.AssemblyInfo.cs
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.csproj.CoreCompileInputs.cache
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.dll
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\refint\24-sinif-kavrami-encaptulation-ve-property-kavrami.dll
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.pdb
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\24-sinif-kavrami-encaptulation-ve-property-kavrami.genruntimeconfig.cache
+D:\Project\24-sinif-kavrami-encaptulation-ve-property-kavrami\obj\Debug\net6.0\ref\24-sinif-kavrami-encaptulation-ve-property-kavrami.dll
