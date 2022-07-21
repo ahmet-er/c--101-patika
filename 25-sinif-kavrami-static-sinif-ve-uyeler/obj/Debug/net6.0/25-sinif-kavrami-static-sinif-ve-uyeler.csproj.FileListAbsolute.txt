@@ -1,0 +1,15 @@
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\bin\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.exe
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\bin\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.deps.json
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\bin\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.runtimeconfig.json
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\bin\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.dll
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\bin\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.pdb
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.AssemblyInfo.cs
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.dll
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\refint\25-sinif-kavrami-static-sinif-ve-uyeler.dll
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.pdb
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\25-sinif-kavrami-static-sinif-ve-uyeler.genruntimeconfig.cache
+D:\Project\25-sinif-kavrami-static-sinif-ve-uyeler\obj\Debug\net6.0\ref\25-sinif-kavrami-static-sinif-ve-uyeler.dll
