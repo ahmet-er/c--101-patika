@@ -1,0 +1,15 @@
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\27-sinif-kavrami-enum.csproj.AssemblyReference.cache
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\27-sinif-kavrami-enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\27-sinif-kavrami-enum.AssemblyInfoInputs.cache
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\27-sinif-kavrami-enum.AssemblyInfo.cs
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\27-sinif-kavrami-enum.csproj.CoreCompileInputs.cache
+D:\Project\27-sinif-kavrami-enum\bin\Debug\net6.0\27-sinif-kavrami-enum.exe
+D:\Project\27-sinif-kavrami-enum\bin\Debug\net6.0\27-sinif-kavrami-enum.deps.json
+D:\Project\27-sinif-kavrami-enum\bin\Debug\net6.0\27-sinif-kavrami-enum.runtimeconfig.json
+D:\Project\27-sinif-kavrami-enum\bin\Debug\net6.0\27-sinif-kavrami-enum.dll
+D:\Project\27-sinif-kavrami-enum\bin\Debug\net6.0\27-sinif-kavrami-enum.pdb
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\27-sinif-kavrami-enum.dll
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\refint\27-sinif-kavrami-enum.dll
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\27-sinif-kavrami-enum.pdb
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\27-sinif-kavrami-enum.genruntimeconfig.cache
+D:\Project\27-sinif-kavrami-enum\obj\Debug\net6.0\ref\27-sinif-kavrami-enum.dll
